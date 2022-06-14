@@ -1,0 +1,9 @@
+Flask==2.1.2
+Flask-RESTful==0.3.9
+Flask-Admin==1.6.0
+MarkupSafe==2.1.1
+Flask-SQLAlchemy==2.5.1
+Pillow==9.1.1
+python-dotenv==0.20.0
+psycopg2==2.9.3
+gunicorn==20.1.0
